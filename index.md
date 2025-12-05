@@ -24,6 +24,8 @@
 }
 </style>
 
+<a href="aboutcs770">About CS770</a>
+
 <div class="tab-container">
   <div class="tab-button" onclick="openTab('ICT701')">ICT701</div>
   <div class="tab-button" onclick="openTab('ICT702')">ICT702</div>
